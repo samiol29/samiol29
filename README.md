@@ -1,6 +1,6 @@
 ## My Git Koi
 
-<img src="koi/koi.gif" width="600" alt="My Git Koi" />
+<img src="koi/koi.gif" width="256" alt="My Git Koi" />
 <!--
 **samiol29/samiol29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
